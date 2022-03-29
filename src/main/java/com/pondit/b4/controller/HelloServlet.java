@@ -1,4 +1,4 @@
-package com.pondit.b4;
+package com.pondit.b4.controller;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
